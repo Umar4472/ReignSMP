@@ -1,0 +1,4 @@
+name: ReignSMP
+version: 1.0
+main: com.reignsmp.ReignSMP
+api-version: 1.21
